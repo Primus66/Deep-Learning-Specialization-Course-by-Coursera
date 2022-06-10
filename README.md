@@ -61,3 +61,29 @@ In five courses, you will learn the foundations of Deep Learning, understand how
     * Lesson Topic: Error Analysis, Mismatched Training-Dev-Test Set, Transfer Learning, Multi-task Learning, End-to-End Deep Learning
     * Quiz: Autonomous driving (case study)
 
+
+
+
+## Course - 4
+### Convolutional Neural Networks - [Coursera](https://www.coursera.org/learn/convolutional-neural-networks) - [GitHub](https://github.com/Primus66/Deep-Learning-Specialization-Course-by-Coursera/tree/main/Convolutional%20Neural%20Networks)
+
+#### Table of Contents
+* [Week 1]
+    * Lesson Topic: Computer Vision, Edge Detection, Padding, Strided Convolutions, Convolutions Over Volume, One Layer of a CNN, Pooling Layers, CNN Example
+    * Quiz: The basics of ConvNets
+    * Assignment: Convolutional Model: step by step, Convolutional model: application
+* [Week 2]
+    * Lesson Topic: Classic Networks, ResNets, 1x1 Convolution, Inception Network, Using Open Source Implementation, Transfer Learning, Data Augmentation
+    * Quiz: Deep convolutional models
+    * Assignment: Residual Networks
+* [Week 3]
+    * Lesson Topic: Object Localization, Landmark Detection, Object Detection, Bounding Box Predictions, Intersection Over Union, Non-max Suppression, Anchor Boxes, YOLO Algorithm
+    * Quiz: Detection algorithms
+    * Assignment: Car detection with YOLO
+    * Assignment: Image Segmentation with U-Net
+* [Week 4]
+    * Lesson Topic: Face Recognition, One Shot Learning, Siamese Network, Triplet Loss, Face Verification, Neural Style Transfer, Deep ConvNets Learning, Cost Function, Style Cost Function, 1D and 3D Generalizations
+    * Quiz: Special applications: Face recognition & Neural style transfer
+    * Assignment: Art generation with Neural Style Transfer, Face Recognition for the Happy House
+
+
