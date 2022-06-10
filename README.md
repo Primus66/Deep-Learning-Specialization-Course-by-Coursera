@@ -106,7 +106,8 @@ In five courses, you will learn the foundations of Deep Learning, understand how
     * Lesson Topic: Various Sequence to Sequence Architectures, Basic Models, Beam Search, Refinements to Beam Search, Error Analysis in Beam Search, Bleu Score, Attention Model Intution, Spech Recognition, Trigger Word Detection
     * Quiz: Sequence models & Attention mechanism
     * Assignment: Neural Machine Translation with Attention, Trigger word detection
- [Week 4]
+
+* [Week 4]
     * Lesson Topic: Transformer Network Intuition, Self Attention, Multi Head Attention, Transformer Network
     * Quiz: Transformers
     * Assignment: Transformers Architecture with TensorFlow
