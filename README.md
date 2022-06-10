@@ -10,7 +10,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 
 ## Course - 1
-### Neural Networks and Deep Learning - [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning) - [GitHub]https://github.com/Primus66/Deep-Learning-Specialization-Course-by-Coursera/tree/main/Neural%20Network%20and%20Deep%20Learning -
+### Neural Networks and Deep Learning - [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning) - [GitHub](https://github.com/Primus66/Deep-Learning-Specialization-Course-by-Coursera/tree/main/Neural%20Network%20and%20Deep%20Learning)
 
 #### Table of Contents
 * [Week 1]
@@ -28,3 +28,22 @@ In five courses, you will learn the foundations of Deep Learning, understand how
     * Lesson Topic: Deep Layer NN, Forward Propagation, Matrix, Building Block of DNN, Parameters vs Hyperparameters
     * Quiz: Key concepts on Deep Neural Networks
     * Assignment: Building your Deep Neural Network, Deep Neural Network - Application
+
+
+
+## Course - 2
+### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - [Coursera](https://www.coursera.org/learn/deep-neural-network) - [GitHub](https://github.com/Primus66/Deep-Learning-Specialization-Course-by-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization)
+
+#### Table of Contents
+* [Week 1]
+    * Lesson Topic: Train-Dev-Test sets, Bias and Variance, Regularization, Dropout, Other Regularization Methods, Normalizing Inputs, Vanishing and Exploding Gradients, Weight Initialization, Gradient Checking and Implementation
+    * Quiz: Practical aspects of deep learning
+    * Assignment: Initialization, Regularization, Gradient Checking
+* [Week 2]
+    * Lesson Topic: Mini-batch Gradient Descent, Exponentially Weighted Averages, Bias Correction, Gradient Descent with Momentum, RMSprop, Adam Optimization, Learning Rate Decay, Problem of Local Optima
+    * Quiz: Optimization Algorithms
+    * Assignment: Optimization
+* [Week 3]
+    * Lesson Topic: Tuning Process, Hyperparameters Tuning, Normalizing activations, Fitting Batch Norm, Softmax Regression, DL Frameworks, TensorFlow
+    * Quiz: Hyperparameter tuning, Batch Normalization, Programming Frameworks
+    * Assignment: TensorFlow
