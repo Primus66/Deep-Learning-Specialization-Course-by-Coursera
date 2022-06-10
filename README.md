@@ -47,3 +47,17 @@ In five courses, you will learn the foundations of Deep Learning, understand how
     * Lesson Topic: Tuning Process, Hyperparameters Tuning, Normalizing activations, Fitting Batch Norm, Softmax Regression, DL Frameworks, TensorFlow
     * Quiz: Hyperparameter tuning, Batch Normalization, Programming Frameworks
     * Assignment: TensorFlow
+
+
+
+## Course - 3
+### Structuring Machine Learning Projects - [Coursera](https://www.coursera.org/learn/machine-learning-projects) - [GitHub](https://github.com/Primus66/Deep-Learning-Specialization-Course-by-Coursera/tree/main/Structuring%20Machine%20Learning%20Projects) 
+
+#### Table of Contents
+* [Week 1]
+    * Lesson Topic: ML Strategy, Orthogonalization, Single Number Evaluation Metric, Satisficing and Optimizing Metric, Train-Dev-Test Distributions, Avoidable Bias, Human Level Performance
+    * Quiz: Bird recognition in the city of Peacetopia (case study)
+* [Week 2]
+    * Lesson Topic: Error Analysis, Mismatched Training-Dev-Test Set, Transfer Learning, Multi-task Learning, End-to-End Deep Learning
+    * Quiz: Autonomous driving (case study)
+
