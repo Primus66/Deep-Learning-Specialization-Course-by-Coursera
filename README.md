@@ -87,3 +87,26 @@ In five courses, you will learn the foundations of Deep Learning, understand how
     * Assignment: Art generation with Neural Style Transfer, Face Recognition for the Happy House
 
 
+
+
+
+## Course - 5
+### Sequence Models - [Coursera](https://www.coursera.org/learn/nlp-sequence-models) - [GitHub](https://github.com/Primus66/Deep-Learning-Specialization-Course-by-Coursera/tree/main/Sequence%20Model)
+
+#### Table of Contents
+* [Week 1]
+    * Lesson Topic: Sequence Models, Notation, Recurrent Neural Network Model, Backpropagation through Time, Types of RNNs, Language Model, Sequence Generation, Sampling Novel Sequences, Gated Recurrent Unit (GRU), Long Short Term Memory (LSTM), Bidirectional RNN, Deep RNNs
+    * Quiz: Recurrent Neural Networks
+    * Assignment: Building a recurrent neural network - step by step, Dinosaur Island - Character-Level Language Modeling, Jazz improvisation with LSTM
+* [Week 2]
+    * Lesson Topic: Word Embeddings, Embedding Matrix, Word2Vec, Negative Sampling, GloVe Word Vectors, Sentiment Classification, Debiasing Word Embeddings
+    * Quiz: Natural Language Processing & Word Embeddings
+    * Assignment: Operations on word vectors - Debiasing, Emojify
+* [Week 3]
+    * Lesson Topic: Various Sequence to Sequence Architectures, Basic Models, Beam Search, Refinements to Beam Search, Error Analysis in Beam Search, Bleu Score, Attention Model Intution, Spech Recognition, Trigger Word Detection
+    * Quiz: Sequence models & Attention mechanism
+    * Assignment: Neural Machine Translation with Attention, Trigger word detection
+ [Week 4]
+    * Lesson Topic: Transformer Network Intuition, Self Attention, Multi Head Attention, Transformer Network
+    * Quiz: Transformers
+    * Assignment: Transformers Architecture with TensorFlow
